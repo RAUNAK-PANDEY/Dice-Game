@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice-Game 🎲
 ## This Game is made using HTML , CSS and JavaScript.
 ### This game has two players. Each time you refresh the page the dice will get rolled and the player with higher value of dice is declared as winner.
 
